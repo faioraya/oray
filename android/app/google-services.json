@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "721647826082",
+    "firebase_url": "https://faioraya-6d87c.firebaseio.com",
+    "project_id": "faioraya-6d87c",
+    "storage_bucket": "faioraya-6d87c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721647826082:android:6d04ccaa11d4a90d",
+        "android_client_info": {
+          "package_name": "th.in.androidthai.ung_ssru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721647826082-ccs7re4f12o8be9oepf81cttceut5g8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkLA5tqHugerCVdyONLGOv9UndrAQBRxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721647826082-ccs7re4f12o8be9oepf81cttceut5g8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721647826082:android:07bde3221c030b3c",
+        "android_client_info": {
+          "package_name": "th.in.androidthai.ung_ssru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721647826082-ccs7re4f12o8be9oepf81cttceut5g8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkLA5tqHugerCVdyONLGOv9UndrAQBRxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721647826082-ccs7re4f12o8be9oepf81cttceut5g8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
